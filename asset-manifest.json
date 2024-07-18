@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaapas/static/css/main.70659a42.css",
+    "main.js": "/vaapas/static/js/main.b7a8e642.js",
+    "static/js/453.5558d6fa.chunk.js": "/vaapas/static/js/453.5558d6fa.chunk.js",
+    "index.html": "/vaapas/index.html",
+    "main.70659a42.css.map": "/vaapas/static/css/main.70659a42.css.map",
+    "main.b7a8e642.js.map": "/vaapas/static/js/main.b7a8e642.js.map",
+    "453.5558d6fa.chunk.js.map": "/vaapas/static/js/453.5558d6fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70659a42.css",
+    "static/js/main.b7a8e642.js"
+  ]
+}
