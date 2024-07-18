@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaapas/static/css/main.70659a42.css",
-    "main.js": "/vaapas/static/js/main.b7a8e642.js",
-    "static/js/453.5558d6fa.chunk.js": "/vaapas/static/js/453.5558d6fa.chunk.js",
-    "index.html": "/vaapas/index.html",
-    "main.70659a42.css.map": "/vaapas/static/css/main.70659a42.css.map",
-    "main.b7a8e642.js.map": "/vaapas/static/js/main.b7a8e642.js.map",
-    "453.5558d6fa.chunk.js.map": "/vaapas/static/js/453.5558d6fa.chunk.js.map"
+    "main.css": "/vaapas-movie_search/static/css/main.70659a42.css",
+    "main.js": "/vaapas-movie_search/static/js/main.a089647d.js",
+    "static/js/453.5558d6fa.chunk.js": "/vaapas-movie_search/static/js/453.5558d6fa.chunk.js",
+    "index.html": "/vaapas-movie_search/index.html",
+    "main.70659a42.css.map": "/vaapas-movie_search/static/css/main.70659a42.css.map",
+    "main.a089647d.js.map": "/vaapas-movie_search/static/js/main.a089647d.js.map",
+    "453.5558d6fa.chunk.js.map": "/vaapas-movie_search/static/js/453.5558d6fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70659a42.css",
-    "static/js/main.b7a8e642.js"
+    "static/js/main.a089647d.js"
   ]
 }
