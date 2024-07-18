@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import SearchBar from './components/SearchBar';
-import MovieList from './components/MovieList/movieList';
+import MovieList from './components/movieList';
 import './App.css';
 
 const App = () => {

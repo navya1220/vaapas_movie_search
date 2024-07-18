@@ -1,7 +1,7 @@
 // src/components/MovieList.js
 
 import React from 'react';
-import MovieCard from '../MovieCard/movieCard';
+import MovieCard from './movieCard';
 
 const MovieList = ({ movies, dogImages }) => {
   return (
