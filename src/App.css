@@ -89,3 +89,67 @@
   border-radius: 10px;
   object-fit: cover;
 }
+
+
+@media(max-width:500px) {
+  .movieApp {
+    background-color: #f0f0f0;
+    height: 130px;
+    text-align: center;
+    padding: 20px;
+  }
+  .movieApp h1 {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .searchInput input {
+    width: 200px;
+    height: 26px;
+    margin-right: 5px;
+    padding: 3px 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  .searchInput button {
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .movie-card {
+    width: 160px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .movie-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .movie-card h2 {
+    font-size: 14px;
+  }
+  .movie-card p {
+    font-size: 10px;
+  }
+  
+}
