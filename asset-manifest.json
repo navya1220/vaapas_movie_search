@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaapas_movie_search/static/css/main.8e54da46.css",
+    "main.css": "/vaapas_movie_search/static/css/main.70659a42.css",
     "main.js": "/vaapas_movie_search/static/js/main.4e325266.js",
     "static/js/453.5558d6fa.chunk.js": "/vaapas_movie_search/static/js/453.5558d6fa.chunk.js",
     "index.html": "/vaapas_movie_search/index.html",
-    "main.8e54da46.css.map": "/vaapas_movie_search/static/css/main.8e54da46.css.map",
+    "main.70659a42.css.map": "/vaapas_movie_search/static/css/main.70659a42.css.map",
     "main.4e325266.js.map": "/vaapas_movie_search/static/js/main.4e325266.js.map",
     "453.5558d6fa.chunk.js.map": "/vaapas_movie_search/static/js/453.5558d6fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e54da46.css",
+    "static/css/main.70659a42.css",
     "static/js/main.4e325266.js"
   ]
 }
